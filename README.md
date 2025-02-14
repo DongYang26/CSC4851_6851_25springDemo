@@ -15,11 +15,11 @@ git clone https://github.com/DongYang26/CSC4851_6851_25springDemo.git
 ```
 cd CSC4851_6851_25springDemo
 ```
-* Try to run the python code named 'text.py'.
+* Try to run the python code named 'text.py' in your configured python environment.
 ```
 python text.py
 ```
-* we need to install it if required package is not in the environment. (Important🌟🌟)
+* we need to install it if required package is not in your configured python environment. (Important🌟🌟)
 ```
 conda install package_name_missed
 ```
