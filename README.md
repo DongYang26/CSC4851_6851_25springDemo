@@ -1,6 +1,6 @@
 # CSC4851_6851_25springDemo
 
-⚡ Please show me that you can successfully run the [text.py](https://github.com/DongYang26/CSC4851_6851_25springDemo/blob/main/text.py) file in your environment.
+⚡ Please show me that you can successfully run the [test.py](https://github.com/DongYang26/CSC4851_6851_25springDemo/blob/main/test.py) file in your environment.
 
 
 
@@ -17,7 +17,7 @@ cd CSC4851_6851_25springDemo
 ```
 * Try to run the python code named 'text.py' in your configured python environment.
 ```
-python text.py
+python test.py
 ```
 * we need to install it if required package is not in your configured python environment. (Important🌟🌟)
 ```
